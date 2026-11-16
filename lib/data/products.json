@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "name": "Acoustic Guitar",
+    "description": "A classic wooden acoustic guitar with a rich, warm tone.",
+    "review": 5,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-01-10T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Electric Keyboard",
+    "description": "61-key digital piano with weighted keys and built-in speakers.",
+    "review": 4,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-01-15T11:30:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Studio Headphones",
+    "description": "Over-ear professional monitoring headphones for audio mixing.",
+    "review": 5,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-01-20T14:15:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Violin Outfit",
+    "description": "Full-size violin with bow, rosin, and protective hard case.",
+    "review": 4,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-02-02T09:45:00Z"
+  },
+  {
+    "id": 5,
+    "name": "DJ Controller",
+    "description": "2-channel DJ controller with built-in soundcard and performance pads.",
+    "review": 5,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-02-10T16:20:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Ukulele",
+    "description": "Soprano ukulele made of mahogany with a smooth finish.",
+    "review": 4,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-02-15T13:10:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Drum Set",
+    "description": "5-piece complete acoustic drum kit with cymbals and throne.",
+    "review": 5,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-02-22T10:05:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Condenser Microphone",
+    "description": "Professional studio condenser mic for vocals and podcasting.",
+    "review": 4,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-03-01T08:30:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Saxophone",
+    "description": "Alto saxophone with a gold lacquer finish and carrying case.",
+    "review": 5,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-03-05T15:40:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Guitar Capo",
+    "description": "Zinc alloy guitar capo for acoustic and electric guitars.",
+    "review": 4,
+    "image": "/img/models/1.jpg",
+    "category": "Music",
+    "dateAdded": "2023-03-12T12:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Denim Jacket",
+    "description": "Classic blue denim jacket with a comfortable slim fit.",
+    "review": 5,
+    "image": "/img/models/1.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-03-18T09:20:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Running Shoes",
+    "description": "Lightweight breathable sneakers designed for long-distance running.",
+    "review": 4,
+    "image": "/img/models/1.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-03-25T14:50:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Cotton T-Shirt",
+    "description": "Premium 100% cotton crew neck t-shirt in solid black.",
+    "review": 4,
+    "image": "/img/models/1.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-04-02T11:15:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Formal Suit",
+    "description": "Two-piece tailored suit in charcoal grey for business occasions.",
+    "review": 5,
+    "image": "/img/models/1.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-04-10T16:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Leather Belt",
+    "description": "Genuine leather belt with a classic silver buckle.",
+    "review": 4,
+    "image": "/img/models/1.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-04-15T10:30:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Chronograph Watch",
+    "description": "Stainless steel wristwatch with a black dial and chronograph display.",
+    "review": 5,
+    "image": "/img/models/3.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-04-20T13:45:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Chino Pants",
+    "description": "Stretch cotton chino trousers in khaki for casual wear.",
+    "review": 4,
+    "image": "/img/models/3.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-04-28T09:00:00Z"
+  },
+  {
+    "id": 18,
+    "name": "Pullover Hoodie",
+    "description": "Heavyweight fleece hoodie with a front kangaroo pocket.",
+    "review": 5,
+    "image": "/img/models/3.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-05-05T15:20:00Z"
+  },
+  {
+    "id": 19,
+    "name": "Aviator Sunglasses",
+    "description": "Classic aviator sunglasses with polarized lenses and metal frame.",
+    "review": 4,
+    "image": "/img/models/3.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-05-12T11:10:00Z"
+  },
+  {
+    "id": 20,
+    "name": "Bifold Wallet",
+    "description": "Slim RFID-blocking leather wallet for men.",
+    "review": 4,
+    "image": "/img/models/3.jpg",
+    "category": "Men's Fashion",
+    "dateAdded": "2023-05-18T14:00:00Z"
+  },
+  {
+    "id": 21,
+    "name": "Floral Summer Dress",
+    "description": "Flowy midi dress with a vibrant floral pattern and short sleeves.",
+    "review": 5,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-05-25T10:45:00Z"
+  },
+  {
+    "id": 22,
+    "name": "Stiletto Heels",
+    "description": "Classic pointed-toe high heels in nude patent leather.",
+    "review": 4,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-06-02T16:30:00Z"
+  },
+  {
+    "id": 23,
+    "name": "Leather Handbag",
+    "description": "Elegant tote bag made of soft genuine leather with gold hardware.",
+    "review": 5,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-06-10T09:15:00Z"
+  },
+  {
+    "id": 24,
+    "name": "Silk Blouse",
+    "description": "Long-sleeve button-down blouse made from 100% pure silk.",
+    "review": 4,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-06-15T13:20:00Z"
+  },
+  {
+    "id": 25,
+    "name": "High-Waist Yoga Pants",
+    "description": "Seamless, squat-proof leggings with a tummy control waistband.",
+    "review": 5,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-06-22T11:00:00Z"
+  },
+  {
+    "id": 26,
+    "name": "Trench Coat",
+    "description": "Double-breasted classic beige trench coat for cooler weather.",
+    "review": 5,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-06-28T10:50:00Z"
+  },
+  {
+    "id": 27,
+    "name": "Gold Pendant Necklace",
+    "description": "Dainty 14k gold-filled necklace with a small teardrop pendant.",
+    "review": 4,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-07-05T14:40:00Z"
+  },
+  {
+    "id": 28,
+    "name": "Pleated Midi Skirt",
+    "description": "A-line pleated skirt in a soft pastel green color.",
+    "review": 4,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-07-12T09:30:00Z"
+  },
+  {
+    "id": 29,
+    "name": "Skinny Jeans",
+    "description": "Classic blue skinny jeans with a stretchy denim blend.",
+    "review": 4,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-07-18T16:15:00Z"
+  },
+  {
+    "id": 30,
+    "name": "Cashmere Scarf",
+    "description": "Ultra-soft winter scarf made from premium cashmere wool.",
+    "review": 5,
+    "image": "/img/models/3.jpg",
+    "category": "Women's Fashion",
+    "dateAdded": "2023-07-25T11:20:00Z"
+  },
+  {
+    "id": 31,
+    "name": "Organic Whole Milk",
+    "description": "One gallon of USDA certified organic whole milk.",
+    "review": 5,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-08-01T08:00:00Z"
+  },
+  {
+    "id": 32,
+    "name": "Whole Wheat Bread",
+    "description": "Freshly baked 100% whole wheat sandwich bread.",
+    "review": 4,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-08-05T10:30:00Z"
+  },
+  {
+    "id": 33,
+    "name": "Organic Fuji Apples",
+    "description": "A 3-pound bag of crisp and sweet organic Fuji apples.",
+    "review": 5,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-08-10T12:45:00Z"
+  },
+  {
+    "id": 34,
+    "name": "Boneless Chicken Breast",
+    "description": "Farm-raised, antibiotic-free boneless chicken breasts (1 lb).",
+    "review": 4,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-08-15T15:10:00Z"
+  },
+  {
+    "id": 35,
+    "name": "Extra Virgin Olive Oil",
+    "description": "Cold-pressed extra virgin olive oil, 500ml glass bottle.",
+    "review": 5,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-08-20T09:20:00Z"
+  },
+  {
+    "id": 36,
+    "name": "Penne Pasta",
+    "description": "Italian durum wheat semolina penne pasta (16 oz).",
+    "review": 4,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-08-25T14:00:00Z"
+  },
+  {
+    "id": 37,
+    "name": "Whole Bean Coffee",
+    "description": "Medium roast whole bean Arabica coffee (12 oz bag).",
+    "review": 5,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-09-01T11:30:00Z"
+  },
+  {
+    "id": 38,
+    "name": "Honey Nut Cereal",
+    "description": "Sweetened whole grain oat cereal with honey and almonds.",
+    "review": 4,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-09-06T08:45:00Z"
+  },
+  {
+    "id": 39,
+    "name": "Free-Range Eggs",
+    "description": "One dozen large brown free-range eggs.",
+    "review": 5,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-09-12T10:15:00Z"
+  },
+  {
+    "id": 40,
+    "name": "Orange Juice",
+    "description": "100% pure squeezed orange juice with no added sugar.",
+    "review": 4,
+    "image": "/img/models/16.jpg",
+    "category": "SuperMarket",
+    "dateAdded": "2023-09-18T13:50:00Z"
+  },
+  {
+    "id": 41,
+    "name": "Baby Diapers",
+    "description": "Ultra-soft and absorbent diapers for sensitive skin (Size 3).",
+    "review": 5,
+    "image": "/img/models/16.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-09-25T09:10:00Z"
+  },
+  {
+    "id": 42,
+    "name": "Lightweight Stroller",
+    "description": "/img/models/16.jpg",
+    "review": 4,
+    "image": "/img/models/16.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-10-02T14:30:00Z"
+  },
+  {
+    "id": 43,
+    "name": "Building Blocks Set",
+    "description": "500-piece colorful building blocks set for creative play.",
+    "review": 5,
+    "image": "/img/models/16.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-10-08T11:20:00Z"
+  },
+  {
+    "id": 44,
+    "name": "Stuffed Teddy Bear",
+    "description": "Soft and cuddly 14-inch teddy bear, machine washable.",
+    "review": 5,
+    "image": "/img/models/16.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-10-15T16:45:00Z"
+  },
+  {
+    "id": 45,
+    "name": "Baby Monitor",
+    "description": "/img/models/16.jpg",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-10-22T10:00:00Z"
+  },
+  {
+    "id": 46,
+    "name": "Wooden Puzzle",
+    "description": "Educational wooden peg puzzle with animal shapes.",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-10-28T13:15:00Z"
+  },
+  {
+    "id": 47,
+    "name": "Action Figure",
+    "description": "Highly detailed 6-inch collectible superhero action figure.",
+    "review": 5,
+    "image": "/img/models/40.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-11-04T09:40:00Z"
+  },
+  {
+    "id": 48,
+    "name": "Family Board Game",
+    "description": "Classic strategy board game for 2-4 players, ages 8+.",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-11-11T15:20:00Z"
+  },
+  {
+    "id": 49,
+    "name": "Baby Lotion",
+    "description": "Hypoallergenic and fragrance-free moisturizing baby lotion.",
+    "review": 5,
+    "image": "/img/models/40.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-11-18T11:10:00Z"
+  },
+  {
+    "id": 50,
+    "name": "Kids Bicycle",
+    "description": "12-inch kids bike with training wheels and a safety bell.",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Baby & Toys",
+    "dateAdded": "2023-11-25T14:00:00Z"
+  },
+  {
+    "id": 51,
+    "name": "Drip Coffee Maker",
+    "description": "12-cup programmable coffee maker with a glass carafe.",
+    "review": 5,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2023-12-02T08:30:00Z"
+  },
+  {
+    "id": 52,
+    "name": "Robot Vacuum",
+    "description": "Smart robot vacuum with Wi-Fi connectivity and app control.",
+    "review": 5,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2023-12-09T10:45:00Z"
+  },
+  {
+    "id": 53,
+    "name": "Cotton Bed Sheets",
+    "description": "Queen size 400 thread count 100% cotton sheet set.",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2023-12-16T13:20:00Z"
+  },
+  {
+    "id": 54,
+    "name": "Non-Stick Frying Pan",
+    "description": "10-inch ceramic non-stick frying pan, dishwasher safe.",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2023-12-23T15:00:00Z"
+  },
+  {
+    "id": 55,
+    "name": "Modern Table Lamp",
+    "description": "Minimalist ceramic table lamp with a linen shade.",
+    "review": 5,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2023-12-30T09:15:00Z"
+  },
+  {
+    "id": 56,
+    "name": "HEPA Air Purifier",
+    "description": "True HEPA air purifier for large rooms up to 500 sq ft.",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2024-01-05T11:50:00Z"
+  },
+  {
+    "id": 57,
+    "name": "High-Speed Blender",
+    "description": "Professional countertop blender for smoothies and soups.",
+    "review": 5,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2024-01-12T14:10:00Z"
+  },
+  {
+    "id": 58,
+    "name": "Wall Clock",
+    "description": "12-inch silent non-ticking analog wall clock.",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2024-01-19T16:35:00Z"
+  },
+  {
+    "id": 59,
+    "name": "Velvet Sofa Cover",
+    "description": "Stretchable velvet slipcover for a 3-seater sofa.",
+    "review": 4,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2024-01-25T10:20:00Z"
+  },
+  {
+    "id": 60,
+    "name": "Ceramic Dinnerware Set",
+    "description": "16-piece stoneware dinner set, service for 4.",
+    "review": 5,
+    "image": "/img/models/40.jpg",
+    "category": "Home",
+    "dateAdded": "2024-02-01T09:40:00Z"
+  },
+  {
+    "id": 61,
+    "name": "Sci-Fi Novel",
+    "description": "Bestselling space opera about the colonization of Mars.",
+    "review": 5,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-02-08T13:00:00Z"
+  },
+  {
+    "id": 62,
+    "name": "Italian Cookbook",
+    "description": "Over 100 authentic pasta and pizza recipes from Italy.",
+    "review": 4,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-02-15T15:30:00Z"
+  },
+  {
+    "id": 63,
+    "name": "Self-Help Guide",
+    "description": "A practical guide to building better habits and productivity.",
+    "review": 4,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-02-22T10:10:00Z"
+  },
+  {
+    "id": 64,
+    "name": "History Biography",
+    "description": "A detailed biography of a famous historical world leader.",
+    "review": 5,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-02-28T12:25:00Z"
+  },
+  {
+    "id": 65,
+    "name": "Children's Storybook",
+    "description": "Illustrated bedtime stories for kids ages 3-7.",
+    "review": 5,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-03-05T16:40:00Z"
+  },
+  {
+    "id": 66,
+    "name": "Mystery Thriller",
+    "description": "A gripping psychological thriller with a shocking twist.",
+    "review": 4,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-03-12T09:55:00Z"
+  },
+  {
+    "id": 67,
+    "name": "Fantasy Epic",
+    "description": "The first book in a grand high-fantasy adventure series.",
+    "review": 5,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-03-18T11:05:00Z"
+  },
+  {
+    "id": 68,
+    "name": "Business Strategy Guide",
+    "description": "Insights on leadership and scaling modern startups.",
+    "review": 4,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-03-25T14:50:00Z"
+  },
+  {
+    "id": 69,
+    "name": "Poetry Collection",
+    "description": "A beautifully bound anthology of modern poetry.",
+    "review": 5,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-04-01T10:15:00Z"
+  },
+  {
+    "id": 70,
+    "name": "Art & Design Book",
+    "description": "A visual history of contemporary art and design trends.",
+    "review": 4,
+    "image": "/img/models/25.jpg",
+    "category": "Books",
+    "dateAdded": "2024-04-08T13:30:00Z"
+  },
+  {
+    "id": 71,
+    "name": "Face Moisturizer",
+    "description": "Hydrating daily face cream with hyaluronic acid.",
+    "review": 5,
+    "image": "/img/models/25.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-04-15T09:00:00Z"
+  },
+  {
+    "id": 72,
+    "name": "Argan Oil Shampoo",
+    "description": "Moisturizing shampoo for dry and damaged hair.",
+    "review": 4,
+    "image": "/img/models/25.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-04-22T11:45:00Z"
+  },
+  {
+    "id": 73,
+    "name": "Electric Toothbrush",
+    "description": "Sonic electric toothbrush with 3 brushing modes.",
+    "review": 5,
+    "image": "/img/models/25.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-04-28T15:20:00Z"
+  },
+  {
+    "id": 74,
+    "name": "Eau de Parfum",
+    "description": "Luxury fragrance with notes of jasmine and sandalwood.",
+    "review": 5,
+    "image": "/img/models/25.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-05-05T10:30:00Z"
+  },
+  {
+    "id": 75,
+    "name": "Sunscreen SPF 50",
+    "description": "Broad spectrum mineral sunscreen for sensitive skin.",
+    "review": 4,
+    "image": "/img/models/25.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-05-12T13:10:00Z"
+  },
+  {
+    "id": 76,
+    "name": "Makeup Palette",
+    "description": "18-color eyeshadow palette with matte and shimmer shades.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-05-18T16:00:00Z"
+  },
+  {
+    "id": 77,
+    "name": "Ionic Hair Dryer",
+    "description": "Fast-drying hair dryer with frizz-reducing technology.",
+    "review": 5,
+    "image": "/img/models/33.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-05-25T08:45:00Z"
+  },
+  {
+    "id": 78,
+    "name": "Vitamin C Serum",
+    "description": "Brightening facial serum with 20% Vitamin C.",
+    "review": 5,
+    "image": "/img/models/33.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-06-01T11:15:00Z"
+  },
+  {
+    "id": 79,
+    "name": "Non-Slip Yoga Mat",
+    "description": "Eco-friendly TPE yoga mat with alignment lines.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-06-08T14:30:00Z"
+  },
+  {
+    "id": 80,
+    "name": "Whey Protein Powder",
+    "description": "Vanilla flavored whey protein isolate for muscle recovery.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Beauty & Health",
+    "dateAdded": "2024-06-15T10:00:00Z"
+  },
+  {
+    "id": 81,
+    "name": "Pro Max Smartphone",
+    "description": "6.7-inch flagship smartphone with 256GB storage and triple camera.",
+    "review": 5,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-06-22T09:20:00Z"
+  },
+  {
+    "id": 82,
+    "name": "Android Flagship",
+    "description": "High-performance Android phone with 120Hz display and 512GB storage.",
+    "review": 5,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-06-28T12:45:00Z"
+  },
+  {
+    "id": 83,
+    "name": "Budget Smartphone",
+    "description": "Affordable 5G smartphone with a large battery and 128GB storage.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-07-05T15:30:00Z"
+  },
+  {
+    "id": 84,
+    "name": "Clear Phone Case",
+    "description": "Shockproof transparent phone case with yellowing resistance.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-07-12T11:10:00Z"
+  },
+  {
+    "id": 85,
+    "name": "Tempered Glass Protector",
+    "description": "9H hardness screen protector, 2-pack with installation kit.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-07-18T14:25:00Z"
+  },
+  {
+    "id": 86,
+    "name": "Fast Charger Block",
+    "description": "65W GaN USB-C fast charging wall adapter.",
+    "review": 5,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-07-25T10:40:00Z"
+  },
+  {
+    "id": 87,
+    "name": "MagSafe Power Bank",
+    "description": "10000mAh magnetic wireless portable charger.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-08-01T09:55:00Z"
+  },
+  {
+    "id": 88,
+    "name": "Phone Gimbal",
+    "description": "3-axis foldable handheld stabilizer for smartphone videography.",
+    "review": 5,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-08-08T13:05:00Z"
+  },
+  {
+    "id": 89,
+    "name": "Car Phone Mount",
+    "description": "Universal magnetic car air vent phone holder.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-08-15T16:20:00Z"
+  },
+  {
+    "id": 90,
+    "name": "Braided USB-C Cable",
+    "description": "6ft nylon braided USB-C to USB-C fast charging cable.",
+    "review": 4,
+    "image": "/img/models/33.jpg",
+    "category": "Mobiles",
+    "dateAdded": "2024-08-22T11:35:00Z"
+  },
+  {
+    "id": 91,
+    "name": "Noise-Canceling Headphones",
+    "description": "Over-ear wireless Bluetooth headphones with active noise cancellation.",
+    "review": 5,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-08-28T10:00:00Z"
+  },
+  {
+    "id": 92,
+    "name": "4K Smart TV",
+    "description": "55-inch 4K UHD Smart TV with HDR and built-in streaming apps.",
+    "review": 5,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-09-05T14:15:00Z"
+  },
+  {
+    "id": 93,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Waterproof outdoor speaker with 20-hour battery life.",
+    "review": 4,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-09-12T09:30:00Z"
+  },
+  {
+    "id": 94,
+    "name": "Gaming Console",
+    "description": "Next-gen 1TB gaming console with 4K gaming support.",
+    "review": 5,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-09-18T12:45:00Z"
+  },
+  {
+    "id": 95,
+    "name": "DSLR Camera",
+    "description": "24.1 MP DSLR camera with 18-55mm lens kit.",
+    "review": 5,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-09-25T15:10:00Z"
+  },
+  {
+    "id": 96,
+    "name": "Smartwatch",
+    "description": "Fitness tracker smartwatch with heart rate and GPS.",
+    "review": 4,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-10-02T10:20:00Z"
+  },
+  {
+    "id": 97,
+    "name": "Ultra-Slim Laptop",
+    "description": "14-inch laptop with 16GB RAM and 512GB SSD.",
+    "review": 5,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-10-08T13:55:00Z"
+  },
+  {
+    "id": 98,
+    "name": "10-inch Tablet",
+    "description": "Wi-Fi tablet with 64GB storage and retina display.",
+    "review": 4,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-10-15T09:05:00Z"
+  },
+  {
+    "id": 99,
+    "name": "Camera Drone",
+    "description": "Foldable drone with 4K camera and GPS return home.",
+    "review": 5,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-10-22T11:40:00Z"
+  },
+  {
+    "id": 100,
+    "name": "VR Headset",
+    "description": "Standalone virtual reality headset with 128GB storage.",
+    "review": 4,
+    "image": "/img/models/4.jpg",
+    "category": "Electronics",
+    "dateAdded": "2024-10-28T16:30:00Z"
+  }
+]

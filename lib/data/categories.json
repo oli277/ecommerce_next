@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Music",
+    "slug": "music",
+    "image": "/img/models/42.jpg"
+  },
+  { 
+    "name": "Men's Fashion",
+    "slug": "men's-fashion",
+    "image": "/img/models/19.jpg"
+  },
+  {
+    "name": "Women's Fashion",
+    "slug": "women's-fashion",
+    "image": "/img/models/51.jpg"
+  },
+  {
+    "name": "SuperMarket",
+    "slug": "supermarket",
+    "image": "/img/models/34.jpg"
+  },
+  {
+    "name": "Baby & Toys",
+    "slug": "baby-and-toys",
+    "image": "/img/models/31.jpg"
+  },
+  {
+    "name": "Home",
+    "slug": "home",
+    "image": "/img/models/9.jpg"
+  },
+  {
+    "name": "Books",
+    "slug": "books",
+    "image": "/img/models/20.jpg"
+  },
+  {
+    "name": "Beauty & Health",
+    "slug": "beauty-and-health",
+    "image": "/img/models/30.jpg"
+  },
+  {
+    "name": "Mobiles",
+    "slug": "mobiles",
+    "image": "/img/models/45.jpg"
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "image": "/img/models/12.jpg"
+  }
+]
